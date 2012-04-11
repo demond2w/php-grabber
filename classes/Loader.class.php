@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Êëàññ ãðàááåðà.
+ * ÐšÐ»Ð°ÑÑ Ð³Ñ€Ð°Ð±Ð±ÐµÑ€Ð°.
  *
  * @author    Dmitriy V. Ibragimov
  * @version   version.txt
